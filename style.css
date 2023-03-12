@@ -1,0 +1,15 @@
+.dropdown{
+    float: right;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+.checked{
+    text-decoration: line-through;
+}
+.controls{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
